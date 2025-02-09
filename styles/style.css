@@ -35,15 +35,15 @@
   width: 100%;
 }
 
-.adress {
+.address {
   width: 240px;
 }
 
-.adress_top {
+.address_top {
   justify-self: end;
 }
 
-.header__adress {
+.header__address {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
@@ -51,7 +51,7 @@
   color: #000;
 }
 
-.adress-link {
+.address-link {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
@@ -283,7 +283,7 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
-.footer__adress {
+.footer__address {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
