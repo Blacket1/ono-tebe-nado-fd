@@ -82,25 +82,22 @@
 }
 
 .aligned-text {
-  text-align: left;
   display: block;
   letter-spacing: 30px;
   text-transform: uppercase;
+}
+
+.aligned-text_left {
+  text-align: left;
 }
 
 .aligned-text_center {
   text-align: center;
-  display: block;
-  letter-spacing: 30px;
   padding: 20px 0;
-  text-transform: uppercase;
 }
 
 .aligned-text_right {
   text-align: right;
-  display: block;
-  letter-spacing: 30px;
-  text-transform: uppercase;
 }
 
 .no-letter-spacing {
@@ -129,6 +126,7 @@
   font-weight: 500;
   font-size: 22px;
   line-height: 26px;
+  text-transform: uppercase;
   color: #fff;
   border: 1px solid #fff;
   background-color: transparent;
